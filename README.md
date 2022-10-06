@@ -1,3 +1,22 @@
+
+
+
+# Alura Studies
+
+Projeto inicial da trilha de aprendizagem de React com Typescript da Alura
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Titulo do meu projeto**
+| :label: Tecnologias | javascript, html, sass, css, react, typescript
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Detalhes do projeto
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
